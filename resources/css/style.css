@@ -119,3 +119,15 @@ div.title {
   margin-right: 5%;
   margin-bottom: 5rem;
 }
+
+footer {
+  background-color: azure;
+  padding: 4rem;
+  display: flex;
+  align-items: center;
+}
+
+footer img {
+  height: 1.5rem;
+  margin-right: 1rem;
+}

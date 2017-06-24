@@ -77,3 +77,28 @@ h1 {
 header .flex {
   justify-content: flex-end;
 }
+
+.service {
+  display: flex;
+  width: 5rem;
+  height: 8rem;
+  margin: 3rem;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.service img {
+  width: 5rem;
+  margin-bottom: 1rem;
+}
+
+img.paper-icon {
+  width: 3.5rem;
+}
+
+.supporting {
+  display: flex;
+  justify-content: center;
+}

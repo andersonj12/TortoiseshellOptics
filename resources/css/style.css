@@ -52,6 +52,7 @@ header {
   background-image: url(../images/glasses-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   height: 30rem;
   overflow: hidden;
   padding-top: 1rem;
@@ -101,4 +102,20 @@ img.paper-icon {
 .supporting {
   display: flex;
   justify-content: center;
+}
+
+div.title {
+  font-weight: bold;
+  font-size: 1rem;
+  background-color: cadetblue;
+  color: white;
+  padding: 0.5rem 1.25rem;
+  width: 10rem;
+  margin-bottom: 1rem;
+}
+
+.info {
+  width: 35%;
+  margin-right: 5%;
+  margin-bottom: 5rem;
 }
